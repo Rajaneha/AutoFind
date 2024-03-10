@@ -15,7 +15,13 @@ The Car Decision Analytics Dashboard is a Python-based project developed using S
 
 ## Prerequisites
 
-- Python
-- Streamlit
-- Other dependencies...
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import numpy as np
+- import seaborn as sns
+- from sklearn.preprocessing import LabelEncoder
+- from sklearn.model_selection import train_test_split
+- from sklearn.tree import DecisionTreeClassifier
+- from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+- from sklearn.metrics import confusion_matrix
 
