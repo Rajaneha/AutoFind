@@ -13,15 +13,17 @@ The Car Decision Analytics Dashboard is a Python-based project developed using S
 - **Machine Learning Techniques:** Employ k-fold cross-validation and Random Forest.
 - **Privacy-Preserving PATE Algorithm:** Ensure data privacy during model training.
 
-## Prerequisites
+## Few Important Libraries Used
 
-- import pandas as pd
-- import matplotlib.pyplot as plt
-- import numpy as np
-- import seaborn as sns
-- from sklearn.preprocessing import LabelEncoder
-- from sklearn.model_selection import train_test_split
-- from sklearn.tree import DecisionTreeClassifier
-- from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-- from sklearn.metrics import confusion_matrix
+- pandas
+- matplotlib.pyplot
+- numpy
+- seaborn
+- streamlit
+- from sklearn.preprocessing - LabelEncoder
+- from sklearn.model_selection - train_test_split
+- from sklearn.tree - DecisionTreeClassifier
+- from sklearn.metrics - accuracy_score, classification_report, confusion_matrix
+- from sklearn.metrics - confusion_matrix
+- from sklearn.preprocessing - OneHotEncoder
 
